@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+   
+    background: url(bg.png) no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: sans-serif;
+    padding: 30px;
+    font-family: sans-serif;
+    
+
+}
+
+nav ul{
+    padding: 0;
+    margin: 0;
+  }
+  nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+    padding: 0;
+    
+  }
+  nav ul li a{
+    text-decoration: none;
+    color:white ;
+    font-weight: bold;
+  }
+  nav ul li a:hover{
+    color: rgb(166, 100, 148);
+  }
+  table a{
+    
+    text-decoration:none;
+    color: white;
+  }
+  table td{
+    padding: 10px;
+  }
+  table{
+    border-spacing: 10px;
+    letter-spacing: 1px;
+    margin-top: 40px;
+    font-size: larger;
+  }
